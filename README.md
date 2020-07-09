@@ -1,4 +1,5 @@
 # music-player
+A small project made in ANDROID STUDIO
 This is the music player with the interactive UI for the easy access for user This application can be used to play mp3 songs. The key features in this are as follows,
 
 
